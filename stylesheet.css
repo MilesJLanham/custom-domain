@@ -1,12 +1,9 @@
-.bar{
-    display: flex;
-    background: teal; 
-    margin: 1em;
-    border-radius: 2em;
-}
-
 nav{
     transform: translate(15px,25px);
+    background: teal;
+    display: flex; 
+    margin: 1em;
+    border-radius: 2em;
 }
 
 li{
